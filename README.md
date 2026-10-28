@@ -3,18 +3,18 @@
 
 A picture frame showing a digital plant on two LED matrices (128 × 64 pixels). It reacts to real light, temperature and humidity, and you water and mist it with buttons on the frame.
 
-![Live test of all sensors and buttons on the LED matrix](docs/img/demo.gif)
+![Live test of all sensors and buttons on the LED matrix](img/demo.gif)
 
 **Status:** electronics working, final assembly in the frame in progress.
-📄 **Build story as PDF:** [Plant_Picture_Frame.pdf](docs/Plant_Picture_Frame.pdf)
+📄 **Build story as PDF:** [Plant_Picture_Frame.pdf](Plant_Picture_Frame.pdf)
 
 ## Build path
 
 | Breadboard | Perfboard | Own PCB |
 |---|---|---|
-| ![](docs/img/breadboard.jpg) | ![](docs/img/perfboard.jpg) | ![](docs/img/pcb-assembled.jpg) |
+| ![](img/breadboard.jpg) | ![](img/perfboard.jpg) | ![](img/pcb-assembled.jpg) |
 
-![From KiCad model to real board](docs/img/kicad-to-pcb.jpg)
+![From KiCad model to real board](img/kicad-to-pcb.jpg)
 
 ## Hardware
 
